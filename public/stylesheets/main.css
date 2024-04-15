@@ -1,0 +1,8 @@
+label{
+    display: block;
+}
+.delete-btn{
+    cursor: pointer;
+    border: none;
+    background-color: red;
+}
